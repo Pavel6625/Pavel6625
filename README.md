@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pavel6625
-- 👀 I’m interested in music, neuroscience, AI, game design and programming
+- 👀 I’m interested in music, neuroscience, AI, game development and programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me: pavel.shlepnev@gmail.com
